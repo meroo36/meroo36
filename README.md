@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meroo36&label=Profile%20views&color=0e75b6&style=flat" alt="meroo36" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Javascript, Meteorjs**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **mdogruca@gmail.com**
 
